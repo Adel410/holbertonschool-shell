@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -fprintf'%u'
+find . -empty -fprintf'%g'
