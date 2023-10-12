@@ -1,2 +1,2 @@
 #!/bin/bash
-find . printf "%f" -empty
+find . -printf"%f" -empty
